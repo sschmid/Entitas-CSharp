@@ -1,0 +1,7 @@
+.idea/
+.packages/
+.source/
+bin/
+obj/
+*.user
+.donotpack/
